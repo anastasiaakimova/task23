@@ -1,7 +1,7 @@
 version: '3'
 
 services:
-  jen:
+  web:
     build:
       context: .
       dockerfile: Dockerfile
